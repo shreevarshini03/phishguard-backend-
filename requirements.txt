@@ -6,3 +6,6 @@ cryptography==41.0.7
 google-api-python-client==2.109.0
 tldextract==3.1.2
 python-multipart==0.0.6
+fastapi
+uvicorn
+
